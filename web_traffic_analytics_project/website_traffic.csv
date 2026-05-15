@@ -1,0 +1,11 @@
+UserID,Page,PageViews,SessionDuration,Bounce
+1,Home,5,8,No
+1,Products,3,5,No
+1,Checkout,1,2,Yes
+2,Home,4,7,No
+2,About,2,3,No
+3,Home,2,1,Yes
+4,Home,6,10,No
+4,Services,4,6,No
+4,Contact,1,2,Yes
+5,Home,1,1,Yes
